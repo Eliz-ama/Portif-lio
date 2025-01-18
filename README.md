@@ -18,7 +18,7 @@ Este portfólio é uma demonstração dos meus conhecimentos e habilidades na cr
 
 Abaixo está a lista dos dashboards que compõem este portfólio. Clique no nome de cada projeto para acessar o README detalhado com descrições, screenshots, e o código utilizado.
 
-1. **[Dashboard de Filmes e Séries mais populares na Africa do Sul](link-para-o-readme-do-dashboard-de-vendas)**: Análise detalhada de vendas por região, produto e período.
+1. **[Dashboard Analítico de Vendas Globais](./dash01/dash01.md)**: Analisar o desempenho global de vendas, identificando padrões de consumo por categoria de produto, país e prioridade de mercado.
    
 2. **[Dashboard Analítico de Vendas Globais](link-para-o-readme-do-dashboard-de-marketing)**: Visualizações de campanhas de marketing, ROI e performance de canais.
 
