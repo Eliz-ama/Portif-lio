@@ -7,7 +7,7 @@
 
 ## 🖼️ Visualização do Dashboard
 
-![Dashboard Analítico de Vendas Globais](../imagem/Lab1_page-0001.jpg)
+![Dashboard Analítico de Vendas Globais](../imagem/Lab1.jpg)
 
 
 ---
@@ -47,9 +47,7 @@ Desenvolvi um dashboard interativo para monitorar e analisar as vendas globais d
 
 ## 📂 Como Visualizar o Dashboard
 
-1. Baixe o arquivo `.pbix` disponível na pasta deste projeto.  
-2. Abra o arquivo no **Power BI Desktop**.  
-3. Interaja com os filtros e gráficos para explorar os dados.  
+1. Clique no link e interaja com os filtros e gráficos para explorar os dados 
 
 ---
 

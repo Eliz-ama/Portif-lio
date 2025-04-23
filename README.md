@@ -19,10 +19,8 @@ Este portfólio é uma demonstração dos meus conhecimentos e habilidades na cr
 Abaixo está a lista dos dashboards que compõem este portfólio. Clique no nome de cada projeto para acessar o README detalhado com descrições, screenshots, e o código utilizado.
 
 1. **[Dashboard Analítico de Vendas Globais](./dash01/dash01.md)**: Analisar o desempenho global de vendas, identificando padrões de consumo por categoria de produto, país e prioridade de mercado.
-   
-2. **[Dashboard Analítico de Vendas Globais](link-para-o-readme-do-dashboard-de-marketing)**: Visualizações de campanhas de marketing, ROI e performance de canais.
 
-3. **[Dashboard de Vendas, Custo, Margem de lucro e KPI](link-para-o-readme-do-dashboard-de-rh)**: Indicadores de desempenho de funcionários, taxa de rotatividade e satisfação.
+2. **[Dashboard de Vendas, Custo, Margem de lucro e KPI](./dash02/dash02.md)**: Fornecer uma visão abrangente sobre o desempenho financeiro da empresa, com foco em lucro por categoria, custo de envio por região, valor médio de vendas e comportamento da margem de lucro ao longo do tempo.
 
 
 
