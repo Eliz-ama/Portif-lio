@@ -47,8 +47,10 @@ Desenvolvi um dashboard interativo para monitorar e analisar as vendas globais d
 
 ## 📂 Como Visualizar o Dashboard
 
-1. Clique no link e interaja com os filtros e gráficos para explorar os dados 
-
+1. Baixe o arquivo `.pbix` disponível na pasta deste projeto.  
+2. Abra o arquivo no **Power BI Desktop**.  
+3. Interaja com os filtros e gráficos para explorar os dados.  
+**[pbix](../Pbix/Lab1.pbix)**
 ---
 
 🔗 **[Voltar ao Portfólio](../README.md)**

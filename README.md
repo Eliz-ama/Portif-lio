@@ -24,10 +24,11 @@ Abaixo está a lista dos dashboards que compõem este portfólio. Clique no nome
 
 
 
-## Ferramentas Utilizadas
+## Ferramenta Utilizada
 
-- **Amazon QuickSight**
 - **Power BI**
+
+Obs: Tenho experiência com a ferramenta AWS QuickSight.
 
 ## Sobre Mim
 
@@ -37,7 +38,7 @@ Sou uma programadora treinee e analista de dados apaixonada por transformar dado
 
 Se você quiser saber mais sobre o meu trabalho ou discutir qualquer um dos projetos, sinta-se à vontade para entrar em contato!
 
-- **Email**: [email corporativo](elizama.izidorio@compasso.com.br)
+- **Email**: [email pessoal](elizamanonato123@outlook.com)
 - **LinkedIn**: [Elizama Izidorio](https://www.linkedin.com/in/elizama-nonato)
 
 ---

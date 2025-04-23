@@ -48,8 +48,10 @@ Este dashboard foi desenvolvido com foco em insights financeiros e operacionais.
 
 ## 📂 Como Visualizar o Dashboard
 
-1. Clique no link e interaja com os filtros de **Ano/Mês** para explorar diferentes cenários
-
+1. Baixe o arquivo `.pbix` na pasta correspondente deste repositório.  
+2. Abra com o **Power BI Desktop**.  
+3. Interaja com os filtros de **Ano/Mês** para explorar diferentes cenários.
+**[pbix](../Pbix/Lab2.pbix)**
 ---
 
 🔗 **[Voltar ao Portfólio](../README.md)**
