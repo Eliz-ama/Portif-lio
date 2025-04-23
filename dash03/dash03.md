@@ -7,7 +7,7 @@
 
 ## 🖼️ Visualização do Dashboard
 
-![Dashboard Mini Projeto 1](..)
+![Dashboard Mini Projeto 1](../imagem/Lab3.png)
 
 ---
 

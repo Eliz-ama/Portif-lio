@@ -22,6 +22,10 @@ Abaixo está a lista dos dashboards que compõem este portfólio. Clique no nome
 
 2. **[Dashboard de Vendas, Custo, Margem de lucro e KPI](./dash02/dash02.md)**: Fornecer uma visão abrangente sobre o desempenho financeiro da empresa, com foco em lucro por categoria, custo de envio por região, valor médio de vendas e comportamento da margem de lucro ao longo do tempo.
 
+3. **[Dashboard de Análise de Pedidos - Mini Projeto 1](./dash03/dash03.md)**: Explorar e compreender o comportamento de pedidos com base em categorias, regiões, prioridades e status de envio, fornecendo suporte para decisões logísticas e estratégicas.
+
+4. **[Dashboard de Análise de Vendas e Segmentação de Clientes - Mini Projeto 2](./dash04/dash04.md)**: Fornecer uma visão estratégica sobre o comportamento de vendas e segmentação de clientes, considerando variáveis como categoria de produto, mercado, envio e rentabilidade.
+
 
 
 ## Ferramenta Utilizada
